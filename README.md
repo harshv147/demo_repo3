@@ -2,4 +2,8 @@
 
 
 Hello this is my last attempt
-change
+changeit
+
+##Local development
+
+1. Open index.html in your browser
